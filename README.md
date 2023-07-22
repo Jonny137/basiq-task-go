@@ -7,6 +7,8 @@
 # Introduction
 Task was to find all transactions for the given test user and determine the average expenditure for every category listed in the previous transactions.
 
+**NOTE**: The app relies on [BasiQ API](https://api.basiq.io/reference#getting-started).
+
 # Usage
 
 1. Modify the `.env-template` file with your specific values and change its name to `.env`
